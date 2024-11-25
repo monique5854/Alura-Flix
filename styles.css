@@ -33,7 +33,7 @@ body {
   }
   img {
     height: 100px;
-  }
-  .categoria-videos {
+  }.categoria-videos {
     display: flex;
   }
+  
