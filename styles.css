@@ -33,15 +33,14 @@ body {
   }
   img {
     height: 300px;
-    .categoria-videos img {
+
   }
- 
-  .categoria-videos {
+ .
+  .categoria-videos img {
     display: flex;
     overflow-x: auto;
     gap: 10px;
-   .categoria-videos img {
-    
+
   }
  
   section {
