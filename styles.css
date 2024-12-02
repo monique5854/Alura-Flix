@@ -32,15 +32,12 @@ body {
     font-size: 50px;
   }
   img {
-    height: 70px;
+    height: 200px;
   }
  
   .categoria-videos {
     display: flex;
-    overflow-x: auto;
-    gap: 10px;
-   .categoria-videos img 
-
+   
   }
  
   section {
